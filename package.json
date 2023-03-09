@@ -1,0 +1,19 @@
+{
+  "name": "full-stack-with-trpc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "@trpc/server": "^10.14.1",
+    "zod": "^3.21.4"
+  }
+}
